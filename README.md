@@ -1,1 +1,1 @@
-# C-50-Finance
+Created for CS50’s Introduction to Computer Science at Harvard School of Engineering and Applied Sciences; Website that simulates the management of stocks, checking real stock prices, and buying/selling them by querying for stocks’ prices; Features a user registration system, which stores user credentials in its database
